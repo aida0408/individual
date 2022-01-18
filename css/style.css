@@ -108,6 +108,7 @@ a {
 }
 .hero-img{
     margin-top: 50px;
+    width: 100%;
 }
 .hero-img-group{
     width: 448px;
@@ -126,10 +127,7 @@ a {
     color: #03101A;
     margin-bottom: 45px;
 }
-.features-img{
-    margin-right: 210px;
 
-}
 .description{
     font-weight: 700;
     font-size: 38px;
@@ -152,7 +150,7 @@ a {
 }
 
 .feedback{
-    padding: 20px 80px;
+    padding: 77px 0 80px;
 }
 .text{
     font-weight: 500;
@@ -173,4 +171,46 @@ a {
     padding: 107px 95px;
     background: #1F98F0;
 }
+.text-title{
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 46px;
+    color: #FFFFFF;
+}
+.news{
+    padding: 120px 0;
 
+}
+.news-img{
+    width: 100%;
+
+}
+.news-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 46px;
+    color: #03101A;
+    margin-bottom: 60px;
+}
+.news-desc{
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
+    color: #03101A;
+    margin: 25px 0 15px;
+}
+.news-subtitle{
+    font-size: 16px;
+    line-height: 150%;
+    color: #6D7073;
+    opacity: 0.7;
+    margin-bottom: 30px;
+}
+.news a{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 150%;
+    color: #1F98F0;
+
+}
